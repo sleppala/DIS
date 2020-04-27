@@ -1,7 +1,6 @@
-README.md:
-	# Title: DIS project
+README.md: 
+	touch README.md
+	echo "# Title: DIS project" > README.md
+	date
+	cat guessinggame.sh | wc -l
 
-	'date'
-
-	'cat guessinggame.sh | wc -l'
-	
